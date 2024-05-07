@@ -13,11 +13,11 @@ Currently, two official plugins are available:
 
 ## ScreenShot 02
 ![SS02](https://github.com/himxnshutripathi/Motato---Eat-without-worries/assets/55108251/9f335bdd-445e-4ed4-befc-60ceef77f267)
-)
+
 
 ## ScreenShot 03
 ![SS03](https://github.com/himxnshutripathi/Motato---Eat-without-worries/assets/55108251/8a6e7d39-60af-4d2b-b901-d89fc888b2cd)
-)
+
 
 ## ScreenShot 04
 ![SS04](https://github.com/himxnshutripathi/Motato---Eat-without-worries/assets/55108251/3e1bcbbe-2423-4beb-a9e1-c6128970d262)
